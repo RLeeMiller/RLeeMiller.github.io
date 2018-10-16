@@ -1,0 +1,174 @@
+.cp {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    height: 150px;
+}
+
+.attractions {
+    color: red;
+    font-family: 'Rock Salt', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+.seal {
+    height: 200px; width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ohiojumbo {
+    color: black;
+}
+
+.ohiojumbo {
+    height: 200px;
+}
+
+.young {
+    height: 200px; width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.display-4 {
+    color: white;
+    font-family: 'Rock Salt', cursive;
+}
+
+.jumbotrun {
+    background-image: url(ohioflag.jpg);
+    background-size: auto 100%;
+    background-position: center bottom;
+}
+
+.jumbotran {
+    background-image: url(heisman.jpg);
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center;
+}
+
+h2 {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.stats {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+
+.headline {
+    color: white;
+    font-family: 'Permanent Marker', cursive;
+}
+
+h1 {
+    color: rgb(190, 16, 16);
+    font-family: 'Audiowide', cursive;
+    text-decoration: underline;
+    font-weight: bolder;
+}
+
+.mainpage {
+    text-align: center;
+    text-shadow: 3px 3px 3px black;
+}
+
+.jumbotron {
+    background-image: url(OhioStadium.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: bottom;
+}
+
+.logo {
+    height: 150px;
+}
+
+.navbar-dark .navbar-brand {
+    color: rgb(190, 16, 16)
+}
+
+.opplogo {
+    height: 50px; width: 50px;
+}
+
+.OregonState {
+    color: orangered;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.Rutgers {
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.TCU {
+    color: rgb(88, 8, 88);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.Tulane {
+    color: green;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.PennState {
+    color: rgb(8, 8, 117);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.Indiana {
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.Minnesota {
+    color: rgb(104, 1, 32);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.Purdue {
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.Nebraska {
+    color: red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.MichiganState {
+    color: rgb(6, 63, 6);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.Maryland {
+    color:red;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
+
+.scum {
+    color: rgb(30, 30, 219); 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;
+}
